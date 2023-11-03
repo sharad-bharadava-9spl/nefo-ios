@@ -1,0 +1,454 @@
+/*
+  Localizable.strings
+ CCSMembersApp
+
+  Created by Jaimin Patel on 6/12/19.
+  Copyright © 2019 Jaimin Patel. All rights reserved.
+*/
+//Common String
+"Done" = "Hecho";
+"Order" = "Pedir";
+"Cancel" = "Cancelar";
+"Error" = "Error";
+"No" = "No";
+"Yes" = "Sí";
+"Sorry, something went wrong. Please try again later." = "Perdón, algo salió mal. Por favor, inténtelo de nuevo más tarde.";
+"Ok" = "OK";
+"Cannabis" = "Cannabis";
+"Items" = "Items";
+"Continue" = "Continuar";
+"Next" = "Próxima";
+"Gr" = "Gramo";
+"Euros" = "Euros";
+"Remove" = "Quitar";
+
+//Language Selection
+"English" = "Inglés";
+"Spanish" = "Español";
+
+//Add new club
+"welcome_to_the_ccs_member_app" = "¡Bienvenido a la aplicación para socios de CCS!";
+"to_get_started"                = "Para empezar, haz clic en el botón de abajo para añadir tu primer club. ¿No tienes un código? ¡Pregúntale a tu club!";
+"User_Registered_Successfully"  = "Se ha registrado con éxito. Comprueba tu correo electrónico para la verificación.";
+"Deleted" = "Borrado ";
+"Banned" = "Expulsado ";
+
+//Login Screen
+"Select Your Language" = "Selecciona el idioma";
+"Select Your Club" = "Seleccionar club";
+"Please select your club." = "Por favor, seleccione el nombre del club.";
+"Enter Passcode" = "Introducir código de acceso";
+"Enter Email" = "Ingrese correo electrónico";
+"select_club" = "Seleccionar club";
+"close" = "CERCA";
+"No clubs found" = "No se encontraron clubes";
+"Enter Username" = "Introduzca tu usuario";
+"Enter Password" =  "Introduzca tu contraseña";
+"Enter Member No." = "Introduzca el número de socio";
+"Add Club" = "Agregar club";
+"Confirm Password" = "Confirmar contraseña";
+"Please enter Confirm Password." = "Por favor re ingrese su contraseña";
+"Passwords do not match" = "Las contraseñas no coinciden";
+"Please add code received from your club" = "Por favor agregue el código recibido de su club";
+"LOGIN" = "Iniciar sesión";
+"REGISTER" = "Regístrate";
+"password_validation" = "La contraseña debe tener un mínimo de 8 dígitos que contengan caracteres alfanuméricos, mayúsculas, minúsculas y especiales";
+"Please enter a valid email address" = "Por favor, introduce una dirección de correo electrónico válida";
+"SUBMIT" = "Enviar";
+"Please enter your passcode." = "Por favor ingrese el código de acceso";
+"Please enter your member no." = "Por favor, introduzca el número de miembro.";
+
+"Please enter username." = "Por favor introduzca tu usuario.";
+"Please enter password." = "Por favor, introduce tu contraseña";
+"Please enter old password" = "Por favor, introduce tu antigua contraseña.";
+
+//Home Screen
+"Home" = "Inicio";
+"Are you sure u want to delete this product?" = "¿Está seguro de que desea eliminar este producto?";
+"More" = "Más";
+"Less" = "Menos";
+"Product Description" = "Descripción del producto";
+"Product Medical Description" = "Descripción médica del producto";
+"plus taxes" = "Más impuestos";
+"Product" = "Producto ";
+"added" = "añadida";
+"View Cart" = "Ver Carrito";
+"Undo" = "Deshacer";
+
+//Categories Screen
+"Categories" = "Categorías";
+"Menu" = "Menú";
+"History" = "Historial de dispensación";
+
+//SlideMenu Screen
+"Slide_Delete_Account" = "Borrar cuenta";
+"Slide_Home" = "Casa";
+"Slide_Categories" = "Categorías";
+"Slide_Donation" = "Aportación";
+"Slide_Chat" = "Chatear";
+"Slide_Dispense History" = "Historial de dispensación";
+"Slide_My Profile" = "Mi perfil";
+"Slide_Notifications" = "Notificaciones";
+"Slide_Settings" = "Ajustes";
+"LogoutMsg" = "¿Está seguro de que quiere cerrar la sesión?";
+"DeleteAccountMsg" = "¿Estás seguro que quieres borrar tu cuenta? ¡Ya no podrás acceder a la app!";
+"Logout" = "Cerrar sesión";
+"Account already added" = "Cuenta ya añadida";
+"Add club" = "Agregar club";
+"Language" = "Idioma";
+"Change_Language" = "Cambiar el idioma";
+"choose_your_language" = "Elige tu idioma";
+//"Map" = "Mapa";
+"Balance" = "Saldo:";
+"End_fee" = "Cuota final:";
+"Filter_Options" = "Opciones de filtrado";
+"filter_by_last_30_orders" = "Filtrar los últimos 30 pedidos";
+"filter_by_year" = "Filtrar por año";
+"select_year" = "Selecciona el año";
+"filter" = "Filtrar";
+"Choose Language" = "Elige el idioma";
+
+//Cart Screen
+"Cart" = "Carrito";
+"Your cart is empty." = "¡Su carrito está vacío!.";
+"PRICE DETAILS" = "DETALLES DEL PRECIO";
+"Place Order" = "Realizar pedido";
+"Item Total" = "Total del artículo";
+"Discount" = "Descuento";
+"Credit" = "Crédito";
+"Payable Total" = "Total";
+"Total Products" = "Total Productos";
+
+"Total Amount" = "Cantidad total";
+"To Pay" = "Paul";
+"Your Credit" = "Su crédito";
+
+//Order Sucess
+"Your order has been placed sucessfully!!" = "Por favor, añada la cantidad a donar!!";
+"Go To Home" = "Ir a la página de Casa";
+
+//Notification screen
+"Notifications" = "Notificaciones";
+" seconds ago." = " hace segundos.";
+"second ago." = "hace un segundo";
+" minutes ago." =  " hace minutos.";
+"minute ago." = "hace un minuto.";
+" hours ago." = " horas atras.";
+"hour ago." = "hace una hora.";
+" days ago." = " hace días.";
+"Yesterday." = "Ayer.";
+" months ago." = " Hace meses.";
+"month ago." = "hace un mes.";
+" years ago." = " hace años que.";
+"year ago." = "Hace años";
+"Are you sure you want to delete this notification?" = "¿Estás seguro de que quieres eliminar esta notificación?";
+
+//Payment Screen
+"Order Success" = "Éxito en el pedido";
+"Payment" = "Pago";
+"Pay with Apple" = "Paga con Apple";
+"Select Payment" = "Seleccionar pago";
+"Choose Payment Options" = "Elegir opciones de pago";
+"Pay with Credit/Debit Card" = "Pague con tarjeta de crédito / débito";
+"Please enter card number." = "Por favor, introduzca el número de tarjeta.";
+"Please enter expiry date." = "Por favor, introduzca la fecha de caducidad.";
+"Please enter cvc number." = "Por favor, introduzca el número de cvc.";
+"Card number" = "Número de tarjeta";
+"Expiration date" = "Fecha de caducidad";
+"CVC" = "CVC";
+"PAY NOW" = "Pagar ahora";
+
+//Donation Screen
+"Available Credit : " = "Crédito Disponible";
+"Max Credit : " = "Crédito máximo";
+"Please enter valid amount." = "Por favor ingrese una cantidad válida.";
+"Please enter valid notes." = "Por favor, introduzca notas válidas.";
+"Note" = "Nota";
+"Add Credit" = "Añadir crédito";
+"Donation History" = "Historial de donaciones";
+"Filter By" = "Filtrar por";
+"Debit" = "Débito";
+"Donation Added" = "Aportación añadida";
+"Paid For Order" = "Pedido pagado";
+"New Credit: " = "Nuevo crédito: ";
+"ADD DONATION" = "Anadir Aportación";
+"ORDER PAYMENT" = "Aportación";
+
+//Chat Screen
+"Chat" = "Chatear";
+"Change Passcode" = "Contraseña";
+
+//Chting Screen
+"Type a message" = "Escribe un mensaje";
+
+ //Dispense History
+"Dispense History" = "Historial de dispensación";
+"Order Id" = "Id. de pedido";
+"ID" = "DNI";
+"Total Price" = "Precio Total";
+"Totals" = "Totals";
+"Products" = "Productos";
+"Cancel Order" = "Cancelar Orden";
+"Last 30 Orders" = "Últimos 30 Pedidos";
+"Year" = "Año";
+"Filter Options" = "Opciones de filtrado";
+"Filter by last 30 orders" = "Filtrar los últimos 30 pedidos";
+"Filter by Year" = "Filtrar por año";
+"Select Year" = "Selecciona el año";
+"Filter" = "Filtrar";
+
+//Dispense Detail
+"Dispense Detail" = "Detalle de dispensación";
+"Order Id:-" = "Id. de pedido -";
+"Order Date:-" = "Fecha de orden -";
+
+//Setting Screen
+"Are you sure you want to delete this macAddress?" = "¿Está seguro de que quiere borrar la dirección de Mac?";
+"Save" = "Guardar";
+"You don't have permission.Please contact admin" = "No tienes permiso. Contáctate con el administrador";
+"Please verify your mac address." = "Por favor verifique su dirección mac.";
+"This wifi-mac address already added." = "Esta dirección wifi-mac ya está agregada.";
+"Please save your editable mac address." = "Guarde su dirección mac editable.";
+"Add Wifi Mac Address" = "Añadir dirección wifi mac";
+"Enter mac address" = "Introducir la dirección mac";
+"Settings" = "Ajustes";
+"Top-up credit" = "Recargar crédito";
+"Show prices in menu" = "Mostrar precios en el menú";
+"Pre-ordering" = "Pre-pedido";
+"Show menu" = "Muestrame el menu";
+
+//Profile Screen
+"My Profile" = "Mi Perfil";
+"Guardian(s)" = "Tutor(es)";
+"Personal" = "Personal";
+"Birthday :" = "Cumpleaños :";
+"DNI or Passport" = "DNI o pasaporte";
+"Contact Details" = "Datos de contacto";
+"Discounts" = "Descuentos";
+"Discount dispensary :" = "Descuento en dispensario :";
+"Discount bar:" = "Barra de descuentos:";
+"Usage" = "Uso";
+"Type :" = "Tipo :";
+"Monthly Consumption:" = "Consumo mensual:";
+"Preferences" = "Preferencias";
+"Weekly Avereges" = "Promedios semanales";
+"Dispenses :" = "Dispensaciones :";
+"Spenditure:" = "Gastos:";
+
+//ProfileSetupVC
+"Add" = "Anadir";
+"CREDIT:" = "CREDITO:";
+"EXPIRA FEE" = "Fin cuota:";
+"PERSONAL INFORMATION" = "INFORMACION PERSONAL";
+"USO" = "USO";
+"Monthly Consumption:" = "Consumo mensual:";
+"CONTACT INFORMATION" = "DATOS DE CONTACTO";
+"Tel:" = "Tel:";
+"GUARDIANES" = "GUARDIANES";
+"MIEMBRO ENTERVESTADO" = "MIEMBRO ENTERVESTADO";
+"PREFERENCIAS" = "PREFERENCIAS";
+"Direccion" = "Direccion: ";
+"My_Clubs" = "Mis clubes";
+"Active_Clubs" = "Clubes Activos";
+"Add_New_Club" = "+ Añadir nuevo club";
+"Registered_in" = "Registrado en ";
+"Add_New" = "Añadir nuevo club";
+"Confirm" = "Confirmar código";
+"Enter_Code" = "Introducir el código*";
+"Insert_code_here" = "Introduce el código aquí";
+"error_add_new_club"  = "Por favor, añade el código recibido de tu club";
+"More_Info" = "More Info";
+"Received_a_notice" = "Recibió un aviso";
+"Email" = "Correo electrónico";
+"Password" = "Contraseña";
+"Set your password" = "Elegir contraseña";
+"Username" = "Nombre de usuario";
+"A_verification_link_will_be_sent" = "Se enviará un enlace de verificación a tu dirección de correo electrónico registrada.";
+"dummy_Email" = "tuemail@email.com";
+"FORGOT_PASSWORD" = "¿Olvidaste tu contraseña?";
+"Register_here" = "Regístrate aquí";
+"Remember_me" = "Recordarme";
+"Not_a_member_yet" = "¿Aún no eres miembro?";
+"FORGOT_PASSWORD_TITLE" = "Olvidé mi contraseña";
+"Enter your old password" = "Introduce tu contraseña antigua";
+"Enter your new password" = "Introduce tu contraseña nueva";
+"Repeat password" = "Repetir contraseña";
+"Change password" = "Contraseña";
+"your_new_password_must_be_" = "Tu nueva contraseña debe ser diferente de las anteriores";
+
+// Font
+"Montserrat_Medium" = "Montserrat-Medium";
+"Montserrat_Bold"   = "Montserrat-Bold";
+"Montserrat_SemiBold"  = "Montserrat-SemiBold";
+
+// Clubs Listing
+"alert_select_active_club" = "¿Estás seguro de que quieres elegir como club activo:";
+"alert_delete_club" = "¿Estás seguro de que quieres eliminar el club:";
+"awaiting_club_approval" = "A la espera de la aprobación del club";
+
+// Dispense History
+"no_dispenses_found" = "No se han encontrado dispensaciones.";
+
+// Check App Version
+"Update"                = "Actualizar";
+"Not Now"               = "Ahora no";
+"Update Required"       = "Actualización necesaria";
+"Update Available"      = "Actualización disponible";
+
+
+//Settings Dispense history
+"Show prices in dispense history"       = "Mostrar precios en el historial de dispensación";
+"Show dispense history"      = "Mostrar historial de dispensación";
+
+"No data available"      = "No hay datos disponibles";
+
+
+//Pre registartion
+"Pre_Registration" = "Preinscripción de socios";
+"msg_enter_code" = "Introduzca el código";
+
+//Second Screen
+"Your Signature" = "Tú firma";
+"DONE" = "FINALIZAR";
+"CLEAR" = "BORRAR";
+"ADD SIGNATURE" = "AÑADIR FIRMA";
+"msg_enter_signature" = "Por favor, introduzca la firma";
+"Date of Birth" = "Fecha de nacimiento";
+"checkbox_member_confirms_statutes" = "El socio/a solicitante manifiesta haber leído los estatutos y la presente solicitud de admisión de socio.";
+"checkbox_sending_emails_SMS_to_your_mobile" = "Envío de correos electrónicos y/o SMS a tu teléfono móvil, con información, newsletter, y servicios de tu interés (Si aceptas el tratamiento de tus datos para esta finalidad, marque esta casilla).";
+"checkbox_provision_of_requested_service" = "Prestación del servicio solicitado (Si aceptas el tratamiento de tus datos con esta finalidad, marque esta casilla).";
+
+
+//Third Screen
+"TAKE PHOTO / UPLOAD FILE" = "HAZ FOTO / SUBE ARCHIVO";
+"Submit a photo of yourself" = "Envía una foto tuya";
+"DNI or Passport" = "DNI o Pasaporte";
+"title_select_options" = "Elija una opción";
+
+
+
+// Pre Registartions User Details
+//Personal details
+"Personal details" = "Datos personales";
+"Gender" = "Género";
+"Male" = "Hombre";
+"Female" = "Mujer";
+"Other" = "Otro";
+
+"Usage" = "Uso";
+"Recreational" = "Lúdico";
+"Medicinal" = "Terapéutico";
+
+"FirstNameTitle" = "Nombre(s)";
+"FirstNamePlaceHolder" = "Nombre";
+"LastNameTitle" = "Apellido(s)";
+"LastNamePlaceHolder" = "Apellido";
+"NationalityPlaceHolder" = "Nacionalidad";
+"DNIPassPortPlaceHolder" = "DNI o Pasaporte";
+
+"msg_enter_firstName" = "Introduce el nombre";
+"msg_enter_lastName" = "Introduce tus apellidos";
+"msg_enter_nationality" = "Introduce la nacionalidad";
+"msg_enter_DNIPassport" = "Introduce el DNI o Pasaporte";
+
+//Contact Details
+"Contact details" = "Detalles de contacto";
+
+"TelephonePlaceHolder" = "Teléfono";
+"StreetNamePlaceHolder" = "Dirección";
+"PostCodePlaceHolder" = "Código postal";
+"CityPlaceHolder" = "Ciudad";
+"CountryPlaceHolder" = "País";
+
+
+"msg_enter_telephone" = "Introduce el teléfono";
+"msg_enter_valid_telephone" = "Introduce un número de teléfono válido";
+"msg_enter_streetName" = "Introduce el nombre de la calle";
+"msg_enter_postCode" = "Introduce el código postal";
+"msg_enter_city" = "Introduce la ciudad";
+"msg_enter_country" = "Introduce el país";
+"msg_enter_Email" = "Introduce tu email";
+"msg_select_gender" = "Selecciona el género";
+"msg_select_usage" = "Selecciona el uso";
+
+"msg_err_enter_date_of_birth" = "Introduce fecha de nacimiento";
+"msg_err_add_signature" = "Añade la firma";
+"msg_err_check_all_things" = "Verifique que aceptas el contrato";
+
+"msg_choose_visit_time" = "Elija una hora para la visita";
+"msg_choose_visit_date" = "Elija la fecha de su visita";
+
+"msg_err_upload_passport" = "Sube la foto del pasaporte";
+"msg_err_upload_profile" = "Sube la foto del perfil";
+
+
+//Qr Code
+"QR_CODE" = "CÓDIGO QR";
+
+
+//Chat Screen
+"Friends" = "Amigos";
+"Club Chat" = "Chat club";
+"Friends Chat" = "Chat Amigos";
+"Go Back" = "Volver";
+
+//Friend Tab Screen
+"Scan QR friend" = "Escanear QR";
+"Search username" = "Buscar nombre de usuario";
+"Friend Requests" = "Solicitudes de amistad";
+"Search for friends by username" = "Buscar amigos por nombre de usuario";
+"msg_ask_your_friend_for_scan_qr" = "Escanea el código QR de tu amigo.";
+"Friend Requests" = "Solicitudes de amistad";
+"New Chat" = "Nuevo chat";
+"Your friends" = "Tus amigos";
+"Write Here" = "Escribe aquí";
+"msg_no_chat_available" = "No hay chat disponible";
+"Write Here" = "Escribe aquí";
+"msg_block_user_by_you" = "El usuario ha sido bloqueado por ti, si quieres desbloquear al usuario pulsa aquí";
+"msg_block_you_by_user" = "Has sido bloqueado por";
+"msg_block_user" = "¿Estás seguro de que quieres bloquear al usuario?";
+"msg_unblock_user" = "¿Estás seguro de que quieres desbloquear al usuario?";
+"msg_unfriend_user" = "¿Estás segura de que quieres ser amiga?";
+"New Chat" = "Nuevo chat";
+"Reason" = "Motivo";
+"Block" = "Bloquear";
+"BlockAndReport" = "Bloquear & informar";
+"Unblock User" = "Desbloquear usuario";
+"msg_no_friend_requests" = "No hay solicitudes de amistad";
+"msg_ask_your_friend_for_scan_your_qr" = "Pide a tu amigo que escanee tu código QR";
+"Please enter reason" = "Por favor ingrese el motivo";
+"Success_Friend_Requests" = "Se ha enviado la solicitud de amistad.
+Por favor espere la confirmación";
+
+"msg_confirmation_reject_request" = "Are you sure you want to reject the request?";
+
+
+
+"msg_banned_you_by_club" = "El club lo ha bloqueado por alguna razón, comuníquese con el administrador del club.";
+"msg_deleted_you_by_club" = "El club lo ha bloqueado por alguna razón, comuníquese con el administrador del club.";
+"msg_unfriend_both_of_you" = "ha dejado de ser su amigo por alguna razón, vuelva a enviar la solicitud para conectarse con ellos.";
+
+
+"Add friends" = "Añadir amigos";
+"Incoming requests" = "Solicitudes recibidas";
+"Outgoing requests" = "Solicitudes enviadas";
+
+"Reject Friend Request" = "Rechazar solicitud de amistad";
+"Cancel Friend Request" = "Cancelar solicitud de amistad";
+"Accept Friend Request" = "Aceptar solicitud de amistad";
+"msg_cancle_frd_Request" = "¿Estás seguro de que quieres cancelar la solicitud de amistad?";
+"msg_Reject_frd_Request" = "¿Estás seguro de que quieres Rechazar la solicitud de amistad?";
+"Or Search for friends by username" = "O buscar amigos por nombre de usuario";
+"msg_both_are_unfriend" = "Ya no sois amigos. Por favor, reenvía la solicitud para conectar con ellos.";
+
+//MARK: MAP_MODULE
+"CCS Map" = "Encuentra Clubes";
+"Filter" = "Filtrar";
+"Select_Region" = "Seleccionar Región";
+"Direction" = "Dirección";
+"Close" = "Cerrar";
+"Satellite_View_Show_lbl" = "Satélite";
+"Map" = "Ubicación del Club";
+"Search" = "Buscar en";
+"Please select a region" = "Seleccione una región";
+"Map_View_Show_lbl" = "Mapa";

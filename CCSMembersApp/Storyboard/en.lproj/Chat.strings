@@ -1,0 +1,183 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0gq-Y5-nUN"; */
+"0gq-Y5-nUN.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Reason"; ObjectID = "14A-P7-mjr"; */
+"14A-P7-mjr.text" = "Reason";
+
+/* Class = "UILabel"; text = "Caption text, description, error notification"; ObjectID = "2DS-Bg-3dz"; */
+"2DS-Bg-3dz.text" = "Caption text, description, error notification";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2dV-hL-aT0"; */
+"2dV-hL-aT0.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3k3-MX-s5A"; */
+"3k3-MX-s5A.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Go Back"; ObjectID = "4GU-JQ-bfi"; */
+"4GU-JQ-bfi.text" = "Go Back";
+
+/* Class = "UILabel"; text = "Friend Requests"; ObjectID = "4nQ-lJ-UqP"; */
+"4nQ-lJ-UqP.text" = "Friend Requests";
+
+/* Class = "UILabel"; text = "Jack"; ObjectID = "5Xu-QH-XxG"; */
+"5Xu-QH-XxG.text" = "Jack";
+
+/* Class = "UILabel"; text = "Go Back"; ObjectID = "7jU-wY-goX"; */
+"7jU-wY-goX.text" = "Go Back";
+
+/* Class = "UIButton"; configuration.title = "Cancel"; ObjectID = "8S9-Hc-UhS"; */
+"8S9-Hc-UhS.configuration.title" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "8S9-Hc-UhS"; */
+"8S9-Hc-UhS.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "New Chat"; ObjectID = "BCF-cZ-b6R"; */
+"BCF-cZ-b6R.text" = "New Chat";
+
+/* Class = "UILabel"; text = "Your friends"; ObjectID = "Dhw-to-eSk"; */
+"Dhw-to-eSk.text" = "Your friends";
+
+/* Class = "UILabel"; text = "Friend Request has been sent.\nPlease wait for the confirmation."; ObjectID = "E9g-LQ-QGu"; */
+"E9g-LQ-QGu.text" = "Friend Request has been sent.\nPlease wait for the confirmation.";
+
+/* Class = "UITextField"; placeholder = "Search by username"; ObjectID = "G5v-lx-hqf"; */
+"G5v-lx-hqf.placeholder" = "Search by username";
+
+/* Class = "UILabel"; text = "Scan QR friend"; ObjectID = "Gqb-af-wHU"; */
+"Gqb-af-wHU.text" = "Scan QR friend";
+
+/* Class = "UILabel"; text = "@johndoe"; ObjectID = "I1X-GO-hQC"; */
+"I1X-GO-hQC.text" = "@johndoe";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ohn-C2-PNj"; */
+"Ohn-C2-PNj.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Write Here"; ObjectID = "QPo-Rd-L0y"; */
+"QPo-Rd-L0y.text" = "Write Here";
+
+/* Class = "UILabel"; text = "Block"; ObjectID = "QlT-wO-Esp"; */
+"QlT-wO-Esp.text" = "Block";
+
+/* Class = "UIButton"; configuration.title = "Chats"; ObjectID = "TFt-sE-9vR"; */
+"TFt-sE-9vR.configuration.title" = "Chats";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "TFt-sE-9vR"; */
+"TFt-sE-9vR.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Club Chat"; ObjectID = "TOL-PS-in4"; */
+"TOL-PS-in4.configuration.title" = "Club Chat";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "TOL-PS-in4"; */
+"TOL-PS-in4.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Send Message"; ObjectID = "U3w-ay-IcE"; */
+"U3w-ay-IcE.text" = "Send Message";
+
+/* Class = "UIButton"; configuration.title = "Friends"; ObjectID = "Ufk-hb-acj"; */
+"Ufk-hb-acj.configuration.title" = "Friends";
+
+/* Class = "UIButton"; normalTitle = "Friends"; ObjectID = "Ufk-hb-acj"; */
+"Ufk-hb-acj.normalTitle" = "Friends";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "X5v-lo-dtq"; */
+"X5v-lo-dtq.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Go Back"; ObjectID = "XVG-So-4Ut"; */
+"XVG-So-4Ut.text" = "Go Back";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "YLI-Yn-age"; */
+"YLI-Yn-age.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "YSL-EZ-vsD"; */
+"YSL-EZ-vsD.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ZJf-Vf-QLr"; */
+"ZJf-Vf-QLr.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bPD-f7-GvS"; */
+"bPD-f7-GvS.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Go Back"; ObjectID = "cbW-aX-pYP"; */
+"cbW-aX-pYP.text" = "Go Back";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dit-sm-HBW"; */
+"dit-sm-HBW.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Block & Report"; ObjectID = "gAI-hi-ACM"; */
+"gAI-hi-ACM.configuration.title" = "Block & Report";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gAI-hi-ACM"; */
+"gAI-hi-ACM.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Go Back"; ObjectID = "go9-vY-Rnp"; */
+"go9-vY-Rnp.text" = "Go Back";
+
+/* Class = "UITextField"; placeholder = "Search username"; ObjectID = "hCA-v4-frm"; */
+"hCA-v4-frm.placeholder" = "Search username";
+
+/* Class = "UILabel"; text = "User block you"; ObjectID = "hvn-OE-zws"; */
+"hvn-OE-zws.text" = "User block you";
+
+/* Class = "UILabel"; text = "Delete Friend"; ObjectID = "iOt-jn-Cy6"; */
+"iOt-jn-Cy6.text" = "Delete Friend";
+
+/* Class = "UILabel"; text = "Your friends "; ObjectID = "jQN-0Q-meV"; */
+"jQN-0Q-meV.text" = "Your friends ";
+
+/* Class = "UIButton"; configuration.title = "UnBlock User"; ObjectID = "jcl-va-Itf"; */
+"jcl-va-Itf.configuration.title" = "UnBlock User";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jcl-va-Itf"; */
+"jcl-va-Itf.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Friend Request has been sent.\nPlease wait for the confirmation."; ObjectID = "kbf-Uh-QZE"; */
+"kbf-Uh-QZE.text" = "Friend Request has been sent.\nPlease wait for the confirmation.";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kkF-km-Smx"; */
+"kkF-km-Smx.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Ask your friend to open his profile and scan his QR code."; ObjectID = "m4f-vG-Aoc"; */
+"m4f-vG-Aoc.text" = "Ask your friend to open his profile and scan his QR code.";
+
+/* Class = "UILabel"; text = "Send Friend Request"; ObjectID = "o1U-XU-5Tc"; */
+"o1U-XU-5Tc.text" = "Send Friend Request";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "pcW-Br-aTH"; */
+"pcW-Br-aTH.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Cancel Friend Request"; ObjectID = "pvM-v5-6y5"; */
+"pvM-v5-6y5.text" = "Cancel Friend Request";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rSG-P5-SC7"; */
+"rSG-P5-SC7.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "u0s-O1-6wg"; */
+"u0s-O1-6wg.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Search for friends by username"; ObjectID = "uCb-sO-nYc"; */
+"uCb-sO-nYc.text" = "Search for friends by username";
+
+/* Class = "UILabel"; text = "Block and Report"; ObjectID = "uQe-SY-Vr5"; */
+"uQe-SY-Vr5.text" = "Block and Report";
+
+/* Class = "UILabel"; text = "Online"; ObjectID = "vHR-bt-wbC"; */
+"vHR-bt-wbC.text" = "Online";
+
+/* Class = "UILabel"; text = "Friend Requests"; ObjectID = "wpy-Jf-EJk"; */
+"wpy-Jf-EJk.text" = "Friend Requests";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "x3a-PT-5Gi"; */
+"x3a-PT-5Gi.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "New Chat"; ObjectID = "xKv-2O-LSi"; */
+"xKv-2O-LSi.text" = "New Chat";
+
+/* Class = "UILabel"; text = "Ask your friend to open his profile and scan his QR code."; ObjectID = "xqF-mj-aDs"; */
+"xqF-mj-aDs.text" = "Ask your friend to open his profile and scan his QR code.";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ybR-M3-vLz"; */
+"ybR-M3-vLz.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zAR-Zm-3F1"; */
+"zAR-Zm-3F1.normalTitle" = "Button";

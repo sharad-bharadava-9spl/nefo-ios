@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Karla-VariableFont_wght.ttf">
+            <string>Karla-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="SearchLocationTableViewCell" rowHeight="54" id="KGk-i7-Jjw" customClass="SearchLocationTableViewCell" customModule="CCSMembersApp" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="323" height="54"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="323" height="54"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TKm-uY-hz3">
+                        <rect key="frame" x="10" y="10" width="313" height="34"/>
+                        <fontDescription key="fontDescription" name="Karla-Regular" family="Karla" pointSize="15"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ZIP-l2-QXP">
+                        <rect key="frame" x="0.0" y="0.0" width="323" height="54"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <color key="tintColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <state key="normal" title="Button"/>
+                        <buttonConfiguration key="configuration" style="plain" title=" "/>
+                    </button>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="TKm-uY-hz3" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="10" id="3wZ-5r-Q6q"/>
+                    <constraint firstAttribute="bottom" secondItem="ZIP-l2-QXP" secondAttribute="bottom" id="LQd-tl-yZ0"/>
+                    <constraint firstItem="ZIP-l2-QXP" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="NFO-ag-hzD"/>
+                    <constraint firstItem="ZIP-l2-QXP" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="aJG-p3-fg8"/>
+                    <constraint firstItem="TKm-uY-hz3" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="10" id="cbP-hs-QE3"/>
+                    <constraint firstAttribute="trailing" secondItem="ZIP-l2-QXP" secondAttribute="trailing" id="e6E-Zu-h9Z"/>
+                    <constraint firstAttribute="trailing" secondItem="TKm-uY-hz3" secondAttribute="trailing" id="gRz-Zw-7Mu"/>
+                    <constraint firstAttribute="bottom" secondItem="TKm-uY-hz3" secondAttribute="bottom" constant="10" id="oZI-am-J04"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="btnAction" destination="ZIP-l2-QXP" id="IvG-bL-1px"/>
+                <outlet property="lblseachlocation" destination="TKm-uY-hz3" id="H9m-Jk-5Zs"/>
+            </connections>
+            <point key="canvasLocation" x="132.06106870229007" y="-28.87323943661972"/>
+        </tableViewCell>
+    </objects>
+</document>

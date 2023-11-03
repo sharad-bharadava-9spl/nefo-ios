@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Karla-VariableFont_wght.ttf">
+            <string>Karla-Regular_Bold</string>
+        </array>
+        <array key="Roboto-Bold.ttf">
+            <string>Roboto-Bold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="HistoryCustomHeader" id="eq5-lS-gyi" customClass="HistoryCustomHeader" customModule="Cannabis" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="393" height="82"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="eq5-lS-gyi" id="Azu-ho-die">
+                <rect key="frame" x="0.0" y="0.0" width="393" height="82"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="eL2-X8-3tl">
+                        <rect key="frame" x="0.0" y="15" width="393" height="67"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="23-06-21 19:07" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="iUy-LZ-Ssw">
+                                <rect key="frame" x="15" y="25" width="96" height="17"/>
+                                <fontDescription key="fontDescription" name="Karla-Regular_Bold" family="Karla" pointSize="14"/>
+                                <color key="textColor" red="0.99607843139999996" green="0.80784313730000001" blue="0.32549019610000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="TOTAL: 30€" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SH9-eC-59I">
+                                <rect key="frame" x="293" y="24" width="85" height="19"/>
+                                <fontDescription key="fontDescription" name="Roboto-Bold" family="Roboto" pointSize="16"/>
+                                <color key="textColor" red="0.20000000000000001" green="1" blue="0.59999999999999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="0.12941176469999999" green="0.1647058824" blue="0.21176470589999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="SH9-eC-59I" firstAttribute="centerY" secondItem="eL2-X8-3tl" secondAttribute="centerY" id="51N-Cm-TMo"/>
+                            <constraint firstItem="iUy-LZ-Ssw" firstAttribute="centerY" secondItem="eL2-X8-3tl" secondAttribute="centerY" id="BZW-uh-eIN"/>
+                            <constraint firstAttribute="trailing" secondItem="SH9-eC-59I" secondAttribute="trailing" constant="15" id="jl1-rf-cv3"/>
+                            <constraint firstItem="iUy-LZ-Ssw" firstAttribute="leading" secondItem="eL2-X8-3tl" secondAttribute="leading" constant="15" id="pRE-HU-Ygc"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="borderWidths">
+                                <real key="value" value="1"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="color" keyPath="borderColors">
+                                <color key="value" red="0.2156862745" green="0.25098039220000001" blue="0.29411764709999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="eL2-X8-3tl" secondAttribute="trailing" id="870-qy-C1J"/>
+                    <constraint firstAttribute="bottom" secondItem="eL2-X8-3tl" secondAttribute="bottom" id="BTi-1U-7gV"/>
+                    <constraint firstItem="eL2-X8-3tl" firstAttribute="top" secondItem="Azu-ho-die" secondAttribute="top" constant="15" id="XCr-dc-hR9"/>
+                    <constraint firstItem="eL2-X8-3tl" firstAttribute="leading" secondItem="Azu-ho-die" secondAttribute="leading" id="Y8N-W9-cbA"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="dateandtime" destination="iUy-LZ-Ssw" id="SOs-Nt-Ubz"/>
+                <outlet property="mainView" destination="eL2-X8-3tl" id="5EQ-nb-KZc"/>
+                <outlet property="totalLbl" destination="SH9-eC-59I" id="7oX-Uk-uUz"/>
+            </connections>
+            <point key="canvasLocation" x="123" y="-123"/>
+        </tableViewCell>
+    </objects>
+</document>

@@ -1,0 +1,15 @@
+<svg id="Icono-donacion" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="29.634" height="16.714" viewBox="0 0 29.634 16.714">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Trazado_20" data-name="Trazado 20" d="M0,6.428H20.89V-10.286H0Z" transform="translate(0 10.286)" fill="none"/>
+    </clipPath>
+  </defs>
+  <path id="Path" d="M10.4,5.769,5.667,10.406a.68.68,0,0,1-1.156-.469V7.287H.677A.668.668,0,0,1,0,6.624V3.975a.668.668,0,0,1,.677-.662H4.511V.663A.68.68,0,0,1,5.667.194L10.4,4.831A.658.658,0,0,1,10.4,5.769Z" transform="translate(19.034 1.114)" fill="#4f7e3a"/>
+  <g id="Grupo_47" data-name="Grupo 47" transform="translate(0 10.286)">
+    <g id="Grupo_46" data-name="Grupo 46" transform="translate(0 -10.286)" clip-path="url(#clip-path)">
+      <g id="Grupo_45" data-name="Grupo 45" transform="translate(-0.001 0)">
+        <path id="Trazado_19" data-name="Trazado 19" d="M7.366,0H-10.046a1.746,1.746,0,0,0-1.74,1.74V14.972a1.746,1.746,0,0,0,1.74,1.742H7.366a1.746,1.746,0,0,0,1.74-1.742V1.74A1.746,1.746,0,0,0,7.366,0M-10.046,1.393H7.366a.358.358,0,0,1,.348.348V4.178H-10.393V1.74a.358.358,0,0,1,.348-.348M7.366,15.322H-10.046a.358.358,0,0,1-.348-.349V8.357H7.713v6.615a.358.358,0,0,1-.348.349M-9,13.927h2.784V12.535H-9Zm4.176,0H-.644V12.535H-4.823Z" transform="translate(11.786)" fill="#4f7e3a"/>
+      </g>
+    </g>
+  </g>
+</svg>
